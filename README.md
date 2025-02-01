@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Computer Science st
 - 🔭 *Current Projects*:
   - *AI-Based Traffic Management Solution*: Smart AI-powered CCTV cameras and real-time adaptive traffic signals using a centralized Raspberry Pi and Python-based vehicle detection software.
   - *Vehicle Detection Task Using YOLOv5*: Identifying ambulances in images.
+  - *Milk Product Billing System*: Generates Bills for Dairy shops
 - 🏅 *Recent Research Paper*:
   - *Smart City Transformation: IoT-Driven Integration for Sustainable Urban Living*
 
